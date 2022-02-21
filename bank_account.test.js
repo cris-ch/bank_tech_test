@@ -12,5 +12,10 @@ describe("BankAccount", () => {
     bank_account.deposit(500)
     expect(bank_account.getBalance()).toEqual(500)
   })
-  
+
+  it("accepts a withdrawal", () => {
+    bank_account.withdrawal(300)
+    expect(bank_account.getBalance()).toEqual(200)
+  })
+
 })

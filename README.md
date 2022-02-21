@@ -1,5 +1,6 @@
 
 Bank tech test
+
 Today, you'll practice doing a tech test.
 
 For most tech tests, you'll essentially have unlimited time. This practice session is about producing the best code you can when there is a minimal time pressure.
@@ -27,4 +28,23 @@ date || credit || debit || balance
 10/01/2023 || 1000.00 || || 1000.00
 Self-assessment
 Once you have completed the challenge and feel happy with your solution, here's a form to help you reflect on the quality of your code: https://docs.google.com/forms/d/1Q-NnqVObbGLDHxlvbUfeAC7yBCf3eCjTmz6GOqC9Aeo/edit
+
+#USER STORIES
+
+As a Bank User
+So that I can move my money around
+I would like to have a bank account
+
+As a Bank User
+So that I can have my money available
+I would like to deposit to my bank account
+
+As a Bank User
+So that I can spend my money
+I would like to withdraw from my bank account
+
+As a Bank User
+So that I know the movements on my account
+I would like to have a bank statement
+
 

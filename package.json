@@ -19,5 +19,10 @@
   "homepage": "https://github.com/cris-ch/bank_tech_test#readme",
   "dependencies": {
     "jest": "^27.5.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.9.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-plugin-jest": "^26.1.1"
   }
 }
